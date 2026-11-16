@@ -11,7 +11,10 @@ Table of Contents
 * [Recommendations](#recommendations)
 
 ## ChargeLane Overview
+![ChargeLane](images/banner.png)
+
 ### Business Context
+
 
 **Questions answered**
 
