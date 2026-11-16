@@ -1,2 +1,3 @@
-# chargelane_analysis
-Sales trend analysis for e-commerce company
+# ChargeLane Electronics E-Commerce Analysis
+
+## About ChargeLane
